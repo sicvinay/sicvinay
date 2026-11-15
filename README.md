@@ -1,0 +1,71 @@
+<div align="center">
+
+# Hi, I'm Vinay B S 👋
+
+### Senior Software Test Engineer · SDET · Python Automation
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39BDF8&center=true&vCenter=true&width=720&lines=Building+reliable+test+automation;Python+%7C+Playwright+%7C+Selenium+%7C+Pytest;API+Testing+%7C+BDD+%7C+AWS+%7C+CI%2FCD" alt="Animated introduction" />
+
+**Quality engineering • Maintainable frameworks • Reliable releases**
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+I'm a software test engineer focused on designing reliable UI and API automation, improving testability, and bringing quality checks into delivery pipelines.
+
+- 🧪 **Test automation:** Python, Playwright, Selenium, Pytest, Behave BDD
+- 🔌 **API & data testing:** REST APIs, Postman, SQL, AWS Athena and Redshift
+- ☁️ **Cloud:** AWS S3, Glue, Lambda and CloudWatch
+- ⚙️ **Delivery:** GitHub Actions, Jenkins, GitLab CI, Git
+- 🧩 **Approach:** Page Object Model, readable tests, useful diagnostics, maintainable architecture
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## 🚀 Featured projects
+
+### [Playwright BDD Automation Framework](https://github.com/sicvinay/playwright-bdd-framework)
+
+Python + Playwright + Behave automation project using the Page Object Model. Includes login scenarios, reusable page components, logging and reporting integrations. Ongoing enhancements include broader application coverage and execution diagnostics.
+
+**Explore:** [Repository](https://github.com/sicvinay/playwright-bdd-framework) · [README](https://github.com/sicvinay/playwright-bdd-framework#readme)
+
+### [Python Selenium Demo](https://github.com/sicvinay/PythonSeleniumDemo)
+
+Python Selenium automation practice project with a page-object-oriented structure and test modules.
+
+**Explore:** [Repository](https://github.com/sicvinay/PythonSeleniumDemo)
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sicvinay&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicvinay&layout=compact&theme=github_dark&hide_border=true" alt="Most-used repository languages" height="165" />
+
+</div>
+
+> Activity widgets are provided by third-party services and may occasionally be unavailable. Repository languages reflect public code, not a complete professional skill assessment.
+
+## 🤝 Let's connect
+
+Interested in test automation, quality engineering and building reliable software? Explore my projects and reach out through [GitHub](https://github.com/sicvinay).
+
+---
+
+<div align="center"><sub>Built with a focus on practical engineering, clarity and continuous improvement.</sub></div>
