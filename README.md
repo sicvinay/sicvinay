@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Vinay B S 👋
+<img src="./github-banner.png" alt="Vinay B S — Senior Software Test Engineer and SDET, Python Playwright Selenium AWS CI/CD" width="100%" />
 
-### Senior Software Test Engineer · SDET · Python Automation
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39BDF8&center=true&vCenter=true&width=720&lines=Building+reliable+test+automation;Python+%7C+Playwright+%7C+Selenium+%7C+Pytest;API+Testing+%7C+BDD+%7C+AWS+%7C+CI%2FCD" alt="Animated introduction" />
 
